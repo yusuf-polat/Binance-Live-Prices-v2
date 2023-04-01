@@ -1,0 +1,28 @@
+{
+  "name": "Binance Crypto Prices",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Displays live cryptocurrency prices from Binance using web sockets.",
+  "icons": {
+    "128": "logo.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "https://www.binance.com/"
+  ],
+  "content_scripts": [{
+    "matches": ["https://www.binance.com/*"],
+    "js": ["content.js"]
+  }]
+}
