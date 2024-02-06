@@ -5,3 +5,4 @@ Extension, borsaların API'lerini kullanarak canlı fiyat bilgilerini toplar ve 
 Bu Chrome Extension, kripto para yatırımcıları için mükemmel bir araçtır. Kullanıcılar, borsalarda gerçekleştirilen işlemleri daha iyi anlamak ve daha bilinçli yatırım kararları almak için extesionu kullanabilirler. Ayrıca, kripto para birimleri hakkında genel bilgi edinmek isteyenler de extesionu kullanarak sektörün son gelişmelerini takip edebilirler.
 
 Extension, kullanıcı dostu arayüzü sayesinde kolayca kullanılabilir ve yüksek performanslı bir şekilde çalışır. Kullanıcılar, extesionu indirdikten sonra hemen kullanmaya başlayabilirler.
+wkyAqNSXQ9rLRXV
